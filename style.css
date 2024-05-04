@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@400..800&display=swap");
+/* Sasss template */
+/* global classes */
+button, button:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  background-color: red;
+  color: white;
+}
+
+/* typography classes */
+.font-ballo {
+  font-family: "Baloo Bhaijaan 2", cursive;
+}
+
+.font-rale {
+  font-family: "Releway", cursive;
+}
+
+.font-rale {
+  font-family: "Rubick", cursive;
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
+.font-size-14 {
+  font-size: 14px;
+}
+
+.font-size-16 {
+  font-size: 16px;
+}
+
+.font-size-50 {
+  font-size: 50px;
+}
+
+/* Color Template */
+.color-primary {
+  color: #003859;
+}
+
+.color-primary-bg {
+  background: #003859;
+}
+
+.color-second {
+  color: #00a5c4;
+}
+
+.color-second-bg {
+  background: #00a5c4;
+}
+
+.color-yellow {
+  color: #ffd289;
+}
+
+.color-yellow-bg {
+  background: #ffd289;
+}
+
+/*# sourceMappingURL=style.css.map */
